@@ -7,3 +7,7 @@ Run `devtools::install()` in your project R console (path where `DESCRIPTION` is
 
 **Running the App on Server** 
 - Not yet complete :( I'm sorry ;(
+
+
+**TODO: in progress**
+- Add multi-plots in gene look up section 
