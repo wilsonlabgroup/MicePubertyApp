@@ -1,0 +1,38 @@
+Package: MicePubertyApp
+Version: 0.0-1
+Date: 2021-10-13
+Title: Visualization of Hypothalamus and Pituitary Mice Puberty Data
+Description: Visualizes Hypothalamus and Pituitary Mice Puberty Data Analysis
+Arthors@R: c(person("Dustin", "Sokolowski", role = c("aut", "cre"),
+                    email = "dustin.sokolowski@sickkids.ca"),
+             person("Huayun", "Hou", role = c("aut"),
+                    email = "huayunhou@gmail.com"),
+             person("Kyoko", "Yuki", role = c("aut"),
+                    email= ""),
+             person("Anna", "Roy", role = c("aut"),
+                    email = ""),
+             person("Cadia", "Chan", role = c("aut"),
+                    email = "cadia.chan@mail.utoronto.ca"), 
+             person("Mariela", "Fayokoo-Martinez", role = c("aut"),
+                    email = "mfaykoomartinez@gmail.com"),
+             person("Matt", "Hudson", role = c("aut"),
+                    email = ""),
+             person("Liis", "Uusküla-Reimand", role = c("aut"),
+                    email = ""),
+             person("Anna", "Goldenberg", role = c("aut"),
+                    email = "nyulik@gmail.com"),
+             person("Mark", "Palmert", role = c("aut"),
+                    email = ""),
+             person("Michael", "Wilson", role = c("aut"),
+                    email = "michael.wilson@sickkids.ca"))
+Imports: 
+    DT, 
+    ggplot2,
+    htmltools, 
+    reshape, 
+    shiny, 
+    shinydashboard
+License: GPL-3
+Encoding: UTF-8
+Maintainer: Dustin Sokolowski <dustin.sokolowski@sickkids.ca>
+
